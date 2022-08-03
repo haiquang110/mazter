@@ -8,6 +8,9 @@
         "email": "haiquang11091410@gmail.com"
     }],
     "minimum-stability": "dev",
+    "require": {
+    "php": ">=5.5"
+},
     "autoload": {
         "psr-4": {
             "mazter\\Crypto\\": "src/"
