@@ -7,7 +7,7 @@
         "name": "Nguyen Hai Quang",
         "email": "haiquang11091410@gmail.com"
     }],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "mazter\\Crypto\\": "src/"
