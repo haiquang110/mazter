@@ -1,0 +1,20 @@
+{
+    "name": "mazter/crypto",
+    "description": "Crypto composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Nguyen Hai Quang",
+        "email": "haiquang11091410@gmail.com",
+        "facebook": "https://facebook.com/quang.hai.uda77",
+        "zalo": "https://zalo.me/0359917579",
+        "github": "haiquang110"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "mazter\\Crypto\\": "src/"
+        }
+    },
+    "require": {}
+}
